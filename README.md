@@ -5,6 +5,8 @@ Elegant Landing Page which include simple design (including company details and 
 
 ## have quick look 😊;
 
+![landing-page](https://user-images.githubusercontent.com/57454543/123855582-5b5e0000-d920-11eb-8112-48e8286e3633.gif)
+
 
 ### Main Technology & Tools Used for Project:
 
