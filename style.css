@@ -22,12 +22,6 @@ body {
     height: 100vh;
     width: 100vw;
     position: relative;
-    background-color: var(--secondColor);
-    background-image: url(../images/Untitled-1.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    z-index: -100;
 }
 
 /* Navbar Start ///////////////////////////*/
@@ -264,7 +258,7 @@ body {
 }
 
 .title {
-    margin: 10px;
+    margin: 20px;
     display: flex;
     position: relative;
     padding: 10px;
